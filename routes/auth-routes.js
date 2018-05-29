@@ -6,13 +6,22 @@ const User        = require("../models/user");
 const Cart        = require("../models/cart");
 const flash       = require("connect-flash");
 const ensureLogin = require("connect-ensure-login");
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
+>>>>>>> dfcc033cba09334d52b6d380d2086f3f62e012b9
 const Service = require('../models/service');
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 4622ebdfd186bf8f34c3b46c2ffd2decda05d4c2
+=======
 
 
+>>>>>>> dfcc033cba09334d52b6d380d2086f3f62e012b9
 // Bcrypt to encrypt passwords
 const bcrypt = require("bcrypt");
 const bcryptSalt = 10;
